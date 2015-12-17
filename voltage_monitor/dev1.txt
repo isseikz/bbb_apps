@@ -1,0 +1,8 @@
+電圧測定プログラム dev.1
+
+* ADCを利用して電圧を測定できる
+ - 「Beagle Bone Black で制御するロボットの作り方」
+* 経過時間と測定値を読み取ることができる
+ - http://qiita.com/fantm21/items/3dc7fbf4e935311488bc
+* 測定値をファイルに出力できる
+ - http://www.python-izm.com/contents/application/file_rw.shtml
